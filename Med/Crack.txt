@@ -1,0 +1,4 @@
+Установил расширения -- Открыл фотошоп и эти расшир. в нем -- Закрыл
+Файлы копирую в папки:
+C:\Users\Igor\AppData\Roaming\Adobe\CEP\extensions\com.madebysource.csshat2
+C:\Users\Igor\AppData\Roaming\Adobe\CEP\extensions\com.madebysource.pnghat
